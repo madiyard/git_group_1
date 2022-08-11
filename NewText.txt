@@ -1,1 +1,2 @@
 This is a text file
+Added this file by right clicking gitignore
